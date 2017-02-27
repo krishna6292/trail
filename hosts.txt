@@ -1,0 +1,2 @@
+54.91.47.253 ansible_connection=ssh ansible_user=centos ansible_ssh_pass=default123
+52.55.43.75 ansible_connection=ssh ansible_user=centos ansible_ssh_pass=default123
